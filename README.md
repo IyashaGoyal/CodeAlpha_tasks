@@ -13,6 +13,10 @@ Throughout the internship, I gained valuable experience in data preprocessing, f
 I would like to express my gratitude to my mentors and colleagues at CodeAlpha for their guidance, support, and encouragement throughout the internship.
 
 <h2>Stock Prediction</h2>
+
+<h3>file</h3>
+stockprediction.ipynb
+
 <h3>Overview</h3>
 Stock prediction involves using historical data and various techniques to forecast future stock prices. It's crucial for investors, traders, and financial institutions to make informed decisions.
 
@@ -29,6 +33,10 @@ The stock prediction model achieved a certain level of accuracy, which was evalu
 To use the stock prediction model, users can input historical data and run the provided code to generate predictions for future stock prices.
 
 <h2>Titanic Classification</h2>
+
+<h3>file</h3>
+TitanicClassification.ipynb
+
 <h3>Overview</h3>
 Titanic classification involves predicting whether a passenger survived or perished in the Titanic disaster based on features like age, gender, ticket class, and cabin location.
 
@@ -44,7 +52,14 @@ The classification model's performance was evaluated using metrics like accuracy
 <h3>Usage</h3>
 Users can input passenger information and run the provided code to predict whether a passenger would have survived the Titanic disaster.
 
+<h3>Files used</h3>
+train.csv for model building,test.csv for prediction.
+
 <h2>A/B Testing Analysis</h2>
+
+<h3>file</h3>
+a_b_testing_analysis.ipynb
+
 <h3>Overview</h3>
 A/B testing is a method used to compare two versions (A and B) of a webpage, app, or marketing strategy to determine which one performs better in terms of a desired outcome.
 
@@ -59,3 +74,6 @@ The analysis provided insights into which version (A or B) performed better base
 
 <h3>Usage</h3>
 Users can follow the provided instructions to conduct their own A/B testing analysis by inputting relevant data and running the code.
+
+<h3>Files used</h3>
+cookie_cats.csv has been used as a dataset.
