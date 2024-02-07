@@ -1,5 +1,8 @@
 <h2>CodeAlphaTasks</h2>
 <h3>CodeAlpha Internship:</h3>
+<h3>Blog Link</h3>
+https://codealpha-internship-tasks.blogspot.com/2024/02/title-my-journey-exploring-data-science.html
+
 <h3>Introduction</h3>
 The CodeAlpha internship program offers opportunities for students and professionals to gain practical experience in data science, machine learning, and software development.
 
