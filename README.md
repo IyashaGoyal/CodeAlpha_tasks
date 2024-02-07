@@ -18,7 +18,7 @@ I would like to express my gratitude to my mentors and colleagues at CodeAlpha f
 <h2>Task-1</h2>
 <h2>Stock Prediction:</h2>
 
-<h3>file</h3>
+<h3>File</h3>
 stockprediction.ipynb
 
 <h3>Overview</h3>
@@ -39,7 +39,7 @@ To use the stock prediction model, users can input historical data and run the p
 <h2>Task-2</h2>
 <h2>Titanic Classification:</h2>
 
-<h3>file</h3>
+<h3>File</h3>
 TitanicClassification.ipynb
 
 <h3>Overview</h3>
@@ -63,7 +63,7 @@ train.csv for model building,test.csv for prediction.
 <h2>Task-3</h2>
 <h2>A/B Testing Analysis:</h2>
 
-<h3>file</h3>
+<h3>File</h3>
 a_b_testing_analysis.ipynb
 
 <h3>Overview</h3>
