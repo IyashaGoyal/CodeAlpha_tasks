@@ -1,6 +1,6 @@
 <h2>CodeAlphaTasks</h2>
 <h3>CodeAlpha Internship:</h3>
-<h3>Blog Link</h3>
+<h3>Blog Link:</h3>
 https://codealpha-internship-tasks.blogspot.com/2024/02/title-my-journey-exploring-data-science.html
 
 <h3>Introduction</h3>
@@ -15,7 +15,8 @@ Throughout the internship, I gained valuable experience in data preprocessing, f
 <h3>Acknowledgments</h3>
 I would like to express my gratitude to my mentors and colleagues at CodeAlpha for their guidance, support, and encouragement throughout the internship.
 
-<h2>Stock Prediction</h2>
+<h2>Task-1</h2>
+<h2>Stock Prediction:</h2>
 
 <h3>file</h3>
 stockprediction.ipynb
@@ -35,7 +36,8 @@ The stock prediction model achieved a certain level of accuracy, which was evalu
 <h3>Usage</h3>
 To use the stock prediction model, users can input historical data and run the provided code to generate predictions for future stock prices.
 
-<h2>Titanic Classification</h2>
+<h2>Task-2</h2>
+<h2>Titanic Classification:</h2>
 
 <h3>file</h3>
 TitanicClassification.ipynb
@@ -58,7 +60,8 @@ Users can input passenger information and run the provided code to predict wheth
 <h3>Files used</h3>
 train.csv for model building,test.csv for prediction.
 
-<h2>A/B Testing Analysis</h2>
+<h2>Task-3</h2>
+<h2>A/B Testing Analysis:</h2>
 
 <h3>file</h3>
 a_b_testing_analysis.ipynb
