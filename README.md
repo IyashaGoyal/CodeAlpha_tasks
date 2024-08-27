@@ -60,26 +60,3 @@ Users can input passenger information and run the provided code to predict wheth
 <h3>Files used</h3>
 train.csv for model building,test.csv for prediction.
 
-<h2>Task-3</h2>
-<h2>A/B Testing Analysis:</h2>
-
-<h3>File</h3>
-a_b_testing_analysis.ipynb
-
-<h3>Overview</h3>
-A/B testing is a method used to compare two versions (A and B) of a webpage, app, or marketing strategy to determine which one performs better in terms of a desired outcome.
-
-<h3>Data</h3>
-We collected data from users or customers who were randomly assigned to either the control group (version A) or the treatment group (version B) during the experiment.
-
-<h3>Methodology</h3>
-We employed statistical techniques like hypothesis testing (e.g., t-tests or chi-square tests) or Bayesian inference to analyze the A/B test results and determine if there's a statistically significant difference between the two versions.
-
-<h3>Results</h3>
-The analysis provided insights into which version (A or B) performed better based on metrics like conversion rate, click-through rate, or revenue generated.
-
-<h3>Usage</h3>
-Users can follow the provided instructions to conduct their own A/B testing analysis by inputting relevant data and running the code.
-
-<h3>Files used</h3>
-cookie_cats.csv has been used as a dataset.
