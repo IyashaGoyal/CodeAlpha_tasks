@@ -7,7 +7,7 @@ https://codealpha-internship-tasks.blogspot.com/2024/02/title-my-journey-explori
 The CodeAlpha internship program offers opportunities for students and professionals to gain practical experience in data science, machine learning, and software development.
 
 <h3>Tasks</h3>
-As an intern at CodeAlpha, I was assigned tasks related to stock prediction, Titanic classification, and A/B testing analysis, which allowed me to apply my skills and knowledge in real-world projects.
+As an intern at CodeAlpha, I was assigned tasks related to stock prediction, Titanic classification which allowed me to apply my skills and knowledge in real-world projects.
 
 <h3>Learning Experience</h3>
 Throughout the internship, I gained valuable experience in data preprocessing, feature engineering, model selection, evaluation techniques, and interpreting results, which enhanced my understanding of data science concepts.
